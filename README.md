@@ -1,2 +1,2 @@
 # Portifólio
-Página Home de um portifólio. Feito com HTML + CSS.
+Página inicial de um portifólio. Praticando HTML + CSS. Tutorial do canal Adriana Saty.
