@@ -1,1 +1,2 @@
-# Página Home de um portifólio. Feito com HTML + CSS.
+# Portifólio
+Página Home de um portifólio. Feito com HTML + CSS.
